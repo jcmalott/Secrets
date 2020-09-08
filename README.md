@@ -2,6 +2,8 @@ Allows a user to register to a site that shows anonymously sent secrets from oth
 
 Once the user is logined in they will be able to see everyones secrets and add their own as well.
 
+Uses Express to navigate from one webpage to another.
+
 
 # HOME 
 ![alt text](https://github.com/jcmalott/Secrets/blob/master/pictures/Secrets_home.PNG)
