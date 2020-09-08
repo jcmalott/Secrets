@@ -9,7 +9,7 @@ Once the user is logined in they will be able to see everyones secrets and add t
 ![alt text](https://github.com/jcmalott/Secrets/blob/master/pictures/Secrets_Login.PNG)
 
 # Secrets 
-![alt text](https://github.com/jcmalott/Secrets/blob/master/pictures/Secrets_Secrets.PNGG)
+![alt text](https://github.com/jcmalott/Secrets/blob/master/pictures/Secrets_Secrets.PNG)
 
 # Create Secret 
 ![alt text](https://github.com/jcmalott/Secrets/blob/master/pictures/Secrets_YourSecrets.PNG)
