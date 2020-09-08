@@ -1,4 +1,5 @@
-Allows a user to register to a site that shows anonymously sent secrets from other users. The users login name and password is store to mongoDB where the password is saved using a salt and hashing method so that it is almost impossible to break into the users account. 
+Allows a user to register to a site that shows anonymously sent secrets from other users. The users login name and password is store to mongoDB where the password is saved using a salt and hashing method so that it is almost impossible to break into the users account. Use can also sign in using their google account.
+
 Once the user is logined in they will be able to see everyones secrets and add their own as well.
 
 
